@@ -1,5 +1,36 @@
 # Change Log
 
+## [1.0.12](https://github.com/calvinballing/cspell-dicts/compare/@cspell/dict-data-science-v1.0.11...@cspell/dict-data-science@1.0.12) (2023-12-29)
+
+
+### Updates and Bug Fixes
+
+* add adaptative anonymization etc. to data-science-terms ([#2388](https://github.com/calvinballing/cspell-dicts/issues/2388)) ([c57b348](https://github.com/calvinballing/cspell-dicts/commit/c57b348fd9d19b09665eb3c5e167e59c0667b7e7))
+* add Dataloaders convolutionally MoElayer WAIC to data-science-terms ([#2308](https://github.com/calvinballing/cspell-dicts/issues/2308)) ([d00ca7c](https://github.com/calvinballing/cspell-dicts/commit/d00ca7c05bb8beea345cd6acfc430bad62e7520f))
+* add DeepScale ICLR to software-terms add interpretability explainability to data-science-terms ([#2259](https://github.com/calvinballing/cspell-dicts/issues/2259)) ([93a8529](https://github.com/calvinballing/cspell-dicts/commit/93a85297f698a35ab6a52df89834295fea6bd56f))
+* add Ecolinguistics etc. to data-science-terms ([#2391](https://github.com/calvinballing/cspell-dicts/issues/2391)) ([175f7b5](https://github.com/calvinballing/cspell-dicts/commit/175f7b52e61dbbec115c2d6e63b3f435fdd5c8b4))
+* add eigen to data-science-terms ([#2336](https://github.com/calvinballing/cspell-dicts/issues/2336)) ([dd3cc87](https://github.com/calvinballing/cspell-dicts/commit/dd3cc87c578448fa029fe6792f309c1a8b8a32b9))
+* add feedforward hyperscale superpod deepfusion Conv1d to data-science terms ([#2263](https://github.com/calvinballing/cspell-dicts/issues/2263)) ([5303faf](https://github.com/calvinballing/cspell-dicts/commit/5303fafd7cf920b6e76f19b29e0cb385d73cc65a))
+* add ICCC ISEA to companies.txt add xlarge microbatch leaderboard to data-science-terms.txt ([#2270](https://github.com/calvinballing/cspell-dicts/issues/2270)) ([16f692b](https://github.com/calvinballing/cspell-dicts/commit/16f692b4656b7a8d36422eb9f0461f4e52c7ad7e))
+* add interpretability Synergizing to data-science-terms ([#2406](https://github.com/calvinballing/cspell-dicts/issues/2406)) ([6ba9614](https://github.com/calvinballing/cspell-dicts/commit/6ba961475530b6660325c266f63214247f4ddae0))
+* add Neuro-Symbolic etc. to data-science-terms ([#2398](https://github.com/calvinballing/cspell-dicts/issues/2398)) ([2424e74](https://github.com/calvinballing/cspell-dicts/commit/2424e740e357eafc0d4d5842eacfdc08edca0f59))
+* add some words to data-science-terms.txt ([#2247](https://github.com/calvinballing/cspell-dicts/issues/2247)) ([f7e3925](https://github.com/calvinballing/cspell-dicts/commit/f7e3925b217ae34621061ba585622de8d30e2bab))
+* add some words to data-science-terms.txt ([#2252](https://github.com/calvinballing/cspell-dicts/issues/2252)) ([7bf67e5](https://github.com/calvinballing/cspell-dicts/commit/7bf67e559f46ebbbf2afe807fbe7d38955e89792))
+* add Widenet SISD MISD etc. to data-science-terms ([#2289](https://github.com/calvinballing/cspell-dicts/issues/2289)) ([8028b0a](https://github.com/calvinballing/cspell-dicts/commit/8028b0aea1736fadd3a6e2ba004dad3217a6de9f))
+* Workflow Bot -- Build Dictionaries ([#2250](https://github.com/calvinballing/cspell-dicts/issues/2250)) ([9436f06](https://github.com/calvinballing/cspell-dicts/commit/9436f0624ce29dc44edddcba855a63f973c06bf8))
+* Workflow Bot -- Build Dictionaries ([#2254](https://github.com/calvinballing/cspell-dicts/issues/2254)) ([b60895a](https://github.com/calvinballing/cspell-dicts/commit/b60895a987db581536eb1a2df6c7fc7c9d4c9e07))
+* Workflow Bot -- Build Dictionaries ([#2262](https://github.com/calvinballing/cspell-dicts/issues/2262)) ([7661f77](https://github.com/calvinballing/cspell-dicts/commit/7661f77f505097ccefb21658751fadde886a20d2))
+* Workflow Bot -- Build Dictionaries ([#2265](https://github.com/calvinballing/cspell-dicts/issues/2265)) ([cbfc349](https://github.com/calvinballing/cspell-dicts/commit/cbfc349934e011b37f8286ec3a4ed64b417a3775))
+* Workflow Bot -- Build Dictionaries ([#2286](https://github.com/calvinballing/cspell-dicts/issues/2286)) ([86c1920](https://github.com/calvinballing/cspell-dicts/commit/86c1920da481290a927d2ec10f689d4399fe1096))
+* Workflow Bot -- Build Dictionaries ([#2288](https://github.com/calvinballing/cspell-dicts/issues/2288)) ([c99970e](https://github.com/calvinballing/cspell-dicts/commit/c99970ef7666bcf9fb16dd507f53a260d0ac7723))
+* Workflow Bot -- Build Dictionaries ([#2293](https://github.com/calvinballing/cspell-dicts/issues/2293)) ([d653cee](https://github.com/calvinballing/cspell-dicts/commit/d653cee9d8e2d7f59294157f95121adaaf164522))
+* Workflow Bot -- Build Dictionaries ([#2306](https://github.com/calvinballing/cspell-dicts/issues/2306)) ([a3a26ff](https://github.com/calvinballing/cspell-dicts/commit/a3a26ffd42efbcf0f00207193d7541fc4ca503f8))
+* Workflow Bot -- Build Dictionaries ([#2314](https://github.com/calvinballing/cspell-dicts/issues/2314)) ([0b59fb7](https://github.com/calvinballing/cspell-dicts/commit/0b59fb79cb74f5b6f10468df0908eada4d5696b3))
+* Workflow Bot -- Build Dictionaries ([#2341](https://github.com/calvinballing/cspell-dicts/issues/2341)) ([8674cbd](https://github.com/calvinballing/cspell-dicts/commit/8674cbde219129fcc734504381ca7ffe209c934b))
+* Workflow Bot -- Build Dictionaries ([#2392](https://github.com/calvinballing/cspell-dicts/issues/2392)) ([fb18852](https://github.com/calvinballing/cspell-dicts/commit/fb18852f205b4a4d959afc2b0c28d3e14df869b9))
+* Workflow Bot -- Build Dictionaries ([#2396](https://github.com/calvinballing/cspell-dicts/issues/2396)) ([7b592c3](https://github.com/calvinballing/cspell-dicts/commit/7b592c3f6bef378b36e6daab8da67f109d955846))
+* Workflow Bot -- Build Dictionaries ([#2412](https://github.com/calvinballing/cspell-dicts/issues/2412)) ([971e6d4](https://github.com/calvinballing/cspell-dicts/commit/971e6d4cd9bd38f1809b76c50451ce24e66d0122))
+
 ## [1.0.11](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-data-science@1.0.10...@cspell/dict-data-science@1.0.11) (2023-08-21)
 
 
